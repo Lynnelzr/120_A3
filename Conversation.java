@@ -70,7 +70,8 @@ class Conversation {
             System.out.println(answer+"?");
             TRANSCRIPT.add(answer+"?");
            }
-        } }
+        } 
+      }
 
         System.out.println("Bye!");
         TRANSCRIPT.add("Bye!");

@@ -1,7 +1,7 @@
 Use this file to record your reflection on this assignment.
 
 - Which classmates did you consult with while working on this assignment?
-I consulted with Vivian Wei with using Scanner to read the next integer printed by the user. And I consulted with Yujie Gong about detecting the period in the user's input and remove it. I also discussed with Tina Chang about using equals or replacement while assigning the words with mirror words.
+I consulted with Vivian Wei with using Scanner to read the next integer printed by the user, and how to close the inputs by try(). I consulted with Yujie Gong about detecting the period in the user's input and remove it. I also discussed with Tina Chang about using equals or replacement while assigning the words with mirror words.
 
 - Which session(s) of TA / office hours did you attend?
 I attended the office hours on Thursday morning and consulted Professor Jordan with the structure of mirroring words.
